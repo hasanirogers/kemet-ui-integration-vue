@@ -24,7 +24,7 @@
     </aside>
     <section slot="content">
       <button aria-label="toggle drawer" @click="toggleDrawer">
-        <kemet-icon icon="list" size="24"></kemet-icon>
+        <kemet-icon-bootstrap icon="list" size="24"></kemet-icon-bootstrap>
       </button>
       <br /><br />
       <div>
